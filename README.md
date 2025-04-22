@@ -8,18 +8,4 @@ As a data analyst supporing the sales & marketing department of a fashion retail
 This project is done on Power BI and the dataset is taken from Kaggle. 
 [Link to dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)  
 
-#### Data File
-The output of this was a csv file containing the scraped data.
-![csv screenshot](https://github.com/Amandazhou04/Webscraping-project/blob/19689541c35c73b7b99ef7cbfec464f5ab8feecd/csv%20screenshot.png)
-
-
-#### EDA Findings
-xxxxx  
-#### Insights & Recommendations
-xxxxx
-
-
-Note: 
-This project is taken from Coursera Guided Project, [Scrape and analyze data analyst job requirements with Python](https://www.coursera.org/learn/scrape-job-postings-data-analyst/home/welcome)
-
 
