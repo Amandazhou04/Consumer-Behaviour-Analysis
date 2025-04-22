@@ -1,4 +1,4 @@
-# Consumer Behaviour Analysis for Targeted Marketing
+# Consumer Behaviour Analysis for Targeted Marketing - WIP
 ![cover image](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/main/Cover.jpg)
 Photo by Shamblen Studios on <a href="https://unsplash.com/photos/assorted-color-gift-boxes-F52I5BtDuhY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
       
