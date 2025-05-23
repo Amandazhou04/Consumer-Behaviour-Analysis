@@ -88,7 +88,7 @@ It constains 18 columns, 3900 records and includes the following attributes:
 <details>
 <summary><b>Recommendations</b></summary>
 
-As seen in the dashboards, there is varying behavioural insights among the different groups of customers. Based on these insights, ome of the recommendations are as follows:
+As seen in the dashboards, there is varying behavioural insights among the different groups of customers. Based on these insights, some of the recommendations are as follows:
 - To increase number of subscribers in the customer base, suggest to run a subscriber acquisition campaign during the top season, in particular, might be worthwhile to execute a specific sub-campaign targeted at acquiring female subscribers.
 - Majority of the purchase amount is contribued by customers in the 46-60 year old age group, suggest to execute a targeted campaign to encourage other age groups to spend more.
 - As seen in the insights above, depending on the season, the lowest sales product category varies. Hence suggest to run "bundle deals" for complementary categories for different seasons. To bundle best selling product of a season with a product that is less popular during that season. Eg. PWP deals or extra saving sales promotion for blouse + accessories in Spring.
