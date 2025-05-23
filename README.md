@@ -35,9 +35,17 @@ It constains 18 columns, 3900 records and includes the following attributes:
 </details>
 
 <details>
-<summary><b>Customer Demographics Dashboard</b></summary>
-![Cust demographic](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/c0d653483eca7def69e86b0e88a532f886a009c9/Cust%20demographic.png)
-      
+<summary><b>Customer Demographic Dashboard</b></summary>
+
+![Cust Demographics](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/c0d653483eca7def69e86b0e88a532f886a009c9/Cust%20demographic.png)
+
+</details>
+
+<details>
+<summary><b>Sales Info Dashboard</b></summary>
+
+![Sales info]([https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/c0d653483eca7def69e86b0e88a532f886a009c9/Cust%20demographic.png](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/09dcd806908f8721c726397cc3cc4c664888844b/Sales%20info.png))
+
 </details>
 
 #### EDA Findings
