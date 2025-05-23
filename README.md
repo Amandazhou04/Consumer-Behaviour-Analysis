@@ -9,7 +9,7 @@ As a data analyst supporing the sales & marketing department of a fashion retail
 This project is done on Power BI and the dataset is taken from Kaggle. [Link to dataset](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset/data)  
 
 <details>
-#### <summary><b>The Dataset</b></summary>
+<summary><b>The Dataset</b></summary>
 This dataset includes demographic information, purchase history, product preferences, and preferred shopping channels (online or offline). 
 It constains 18 columns, 3900 records and includes the following attributes:
 
