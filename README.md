@@ -51,7 +51,7 @@ It constains 18 columns, 3900 records and includes the following attributes:
 <details>
 <summary><b>Purchase Behaviour Dashboard</b></summary>
 
-![Purch Behav](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/2327032f1e294f2bb5a3c048f445ea7bc85ade88/Purch%20Behav.png)
+![Purch Behav](https://github.com/Amandazhou04/Consumer-Behaviour-Analysis/blob/cad0daa9f9db94cf8dbe68b81ab04c0ff075c678/Purch%20Behav.png)
 
 </details>
 
