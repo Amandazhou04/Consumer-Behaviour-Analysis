@@ -101,6 +101,3 @@ Ending notes:
 More insights can be drawn from the data with further slicing & dicing. With these insights, it can help the company better understand the preferences and purchasing behaviour of the customers as well as identify any gaps for untapped opportunities. 
 
 Like what you see? Get in touch with me on [LinkedIn.](linkedin.com/in/amanda-z-62110417)
-Note: 
-This project is taken from Coursera Guided Project, [Scrape and analyze data analyst job requirements with Python](https://www.coursera.org/learn/scrape-job-postings-data-analyst/home/welcome)
-
